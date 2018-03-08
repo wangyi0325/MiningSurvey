@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/color_gray_bg"
+    android:background="@color/colorGray_a"
     tools:context="com.example.admin.miningsurvey.activity.LoginActivity"
     android:orientation="vertical">
 
@@ -37,6 +37,8 @@
            android:layout_width="0dp"
            android:layout_height="wrap_content"
            android:layout_weight="1.5"
+           android:layout_marginLeft="10dp"
+           android:paddingLeft="20dp"
            android:background="@drawable/login_editer" />
        <TextView
            android:layout_width="0dp"
@@ -66,6 +68,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1.5"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="20dp"
             android:background="@drawable/login_editer" />
         <TextView
             android:layout_width="0dp"

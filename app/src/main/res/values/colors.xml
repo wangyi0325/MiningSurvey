@@ -1,79 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#549ec9</color>
+    <color name="colorPrimary">#1f9cee</color>
+    <color name="colorPrimaryDark">#1f9cee</color>
+    <!--<color name="colorPrimaryDark">#1d73bb</color>-->
     <color name="colorAccent">#FF4081</color>
-    <drawable name="index_write">#ffffff</drawable>
-    <drawable name="index_blue">#0079f8</drawable>
-    <color name="theme_color">#f86c41</color>
-    <color name="theme_color1">#55f86c41</color>
-    <color name="general_back_color">#ffececec</color>
-    <color name="transprent">#00000000</color>
-    <color name="lock_setup">#ffeeeeee</color>
-    <color name="color_report_video">#3abd9e</color>
-    <!-- 首页 标题颜色 -->
-    <color name="first_color">#33ac8d</color>
-    <color name="bg_title_color">#3AB27C</color>
+
+    <!--<color name="colorPrimary">#455A64</color>-->
+    <!--<color name="colorPrimaryDark">#263238</color>-->
+    <!--<color name="colorAccent">#D50000</color>-->
+
+    <color name="colorGray">#6e6e6e</color>
     <color name="white">#ffffff</color>
+    <color name="colorGray_0">#f0f0f0</color>
+    <color name="colorGray_8">#808080</color>
+    <color name="colorGray_8c">#8c9099</color>
+    <color name="colorGray_c">#CCCCCC</color>
+    <color name="colorGray_9">#9a9ea7</color>
+    <color name="colorGray_a">#a5a5a5</color>
     <color name="black">#000000</color>
-    <color name="black_3">#222222</color>
-    <color name="red">#FF0000</color>
-    <color name="blue">#FF375BF1</color>
-    <color name="yellow">#FFF7D23E</color>
-    <color name="green">#FF34A350</color>
-    <color name="gray_e0">#e0e0e0</color>
-    <color name="text_blank">#ff4b4b4b</color>
-    <!-- item点击效果颜色 -->
-    <color name="item_pressed">#cccccc</color>
-    <!-- item常态下颜色 -->
-    <color name="item_normal">#00000000</color>
-    <!-- 背景颜色 -->
-    <color name="bg_color">#F5F5F5</color>
-    <!-- top_indicator颜色 -->
-    <color name="top_indicator_text_color_selector">#F5F5F5</color>
-    <color name="log_out_press">#EA0F0F</color>
-    <color name="log_out_normal">#ffffff</color>
-    <color name="gray_b0">#b0b0b0</color>
-    <color name="gray_fc">#eaeaea</color>
-    <color name="gray_d0">#d0d0d0</color>
-    <color name="color_profile_bg">#f5f5f5</color>
-    <color name="gray_a0">#a0a0a0</color>
-    <color name="buttom_selected">#ed5056</color>
-    <color name="red_light">#FFC93437</color>
-    <!-- 背景颜色灰色 -->
-    <color name="color_gray_bg">#f1f1f1</color>
-    <color name="transparent">#00000000</color>
-    <color name="color_green">#58CC41</color>
-    <color name="color_line">#f0f0f0</color>
-    <color name="color_gray_transp">#fdfbfb</color>
-    <!-- 分隔线的颜色 -->
-    <color name="line_cl">#dbdbdb</color>
-    <color name="huise">#808080</color>
-    <color name="blue_theme">#08AFE2</color>
-    <color name="black_gray">#4d4d4d</color>
-    <color name="bg_gray">#f4f4f4</color>
-    <color name="gray_tv">#888B8C</color>
-    <!--上拉下拉-->
-    <color name="material_red">#ffF44336</color>
-    <color name="material_green">#ff4CAF50</color>
-    <color name="material_blue">#ff03A9F4</color>
-    <color name="material_yellow">#ffFFEB3B</color>
-
-
-
-    <color name="red_color">#ffee4566</color>
-    <color name="official_text1">#ff424242</color>
-    <color name="liner_bg">#f1f5f8</color>
-
-    <color name="riverchannel_mapline">#01B1F2</color>
-    <color name="divide_line">#F5F5F5</color>
-    <color name="text_decribe">#1970A1</color>
-    <color name="river_level">#4BAC4A</color>
-    <color name="rivermap_poptilte">#7EC9E0</color>
-    <color name="colorblue">#18B7F1</color>
-    <color name="contact_riverchief_normal">#18B7F1</color>
-    <color name="contact_riverchief_pressed">#549EC9</color>
-    <color name="reportbtn_press">#AEAEAE</color>
-    <color name="bgg_gray">#F5F5F5</color>
+    <color name="darkblue">#1d73bb</color>
 
 </resources>

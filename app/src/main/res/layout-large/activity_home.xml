@@ -7,10 +7,64 @@
     tools:context="com.example.admin.miningsurvey.activity.HomeActivity"
     android:orientation="vertical">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:padding="5dp"
+        android:background="@color/colorGray_c"
+        android:orientation="horizontal">
+    <EditText
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:background="@drawable/login_editer"
+        android:hint="搜索内容"
+        android:paddingLeft="30dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="100dp"
+        android:text="搜索"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/report_commit_n"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/report_commit_n"
+        android:layout_marginLeft="10dp"
+        android:text="任务列表"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
 
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:clickable="true" />
 
-
-
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="bottom"
+        android:padding="5dp"
+        android:background="@color/colorGray_c"
+        android:orientation="horizontal"
+        >
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="我的任务"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/report_commit_n"
+         />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/report_commit_n"
+        android:layout_marginLeft="10dp"
+        android:text="设置"
+        />
+    </LinearLayout>
 
 
 </LinearLayout>
